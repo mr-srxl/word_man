@@ -16,7 +16,7 @@
 ```bash
 git clone git remote add origin https://github.com/mr-srxl/word_man.git
 cd word_man
-python3 -m venv venv
+python -m venv venv
 source venv/bin/active
 pip install wordlist
 python word_man.py -h
@@ -30,6 +30,7 @@ python word_man.py -m 2 -s sf#&ahfh83$ -p 1@445@ -o filename
 python word_man.py -m 3  
 
 ````
+
 
 
 
